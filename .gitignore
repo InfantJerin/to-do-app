@@ -1,0 +1,19 @@
+# .gitignore
+
+# Node modules
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Build files
+frontend/build/
+
+# Python cache files
+backend/__pycache__/
+backend/*.pyc
+
+# MongoDB data
+/data/db/
+
+# ... (other existing entries)
